@@ -1,1 +1,1 @@
-app.didadi.fm
+api.didadi.fm
